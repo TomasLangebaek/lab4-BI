@@ -11,7 +11,7 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://127.0.0.1:8000",
+					"raw": "https://lab4bi.herokuapp.com",
 					"protocol": "http",
 					"host": [
 						"127",
@@ -39,7 +39,7 @@
 					}
 				},
 				"url": {
-					"raw": "http://127.0.0.1:8000/predict",
+					"raw": "https://lab4bi.herokuapp.com/predict",
 					"protocol": "http",
 					"host": [
 						"127",
@@ -70,7 +70,7 @@
 					}
 				},
 				"url": {
-					"raw": "http://127.0.0.1:8000/r2",
+					"raw": "https://lab4bi.herokuapp.com/r2",
 					"protocol": "http",
 					"host": [
 						"127",
